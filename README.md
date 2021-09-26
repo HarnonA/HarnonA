@@ -1,16 +1,22 @@
-### Hi there 👋
+Hello there, I'm Harnon Anízio 🖖
 
-<!--
-**HarnonA/HarnonA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&ensp;&ensp;🎓 I've a B.S. in Computer Science for Universidade Federal de Alagoas,
 
-Here are some ideas to get you started:
+&ensp;&ensp;🎓 MBA in Information Security,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&ensp;&ensp;🎓 Graduate student in cloud computing projects.
+
+
+💻 Software engineer foucesed in React, React Native, JavaScript and TypeScript.
+
+📚 Always learning.
+
+Fun facts:
+
+&ensp;&ensp;💪 I already ran a half marathon
+
+&ensp;&ensp;🎖️ I received the honor of 'Most Disciplined' by the Army
+
+&ensp;&ensp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Pok%C3%A9_Ball_icon.svg/1026px-Pok%C3%A9_Ball_icon.svg.png" width="16px" /> My interest in technology started playing pokemon
+
+📍 Maceió, Alagoas, Brazil
