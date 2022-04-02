@@ -1,13 +1,15 @@
 Hello there, I'm Harnon Anízio 🖖
 
-&ensp;&ensp;🎓 I've a B.S. in Computer Science for Universidade Federal de Alagoas,
+&ensp;&ensp;🎓 I've a B.S. in Computer Science,
 
 &ensp;&ensp;🎓 MBA in Information Security,
 
-&ensp;&ensp;🎓 Graduate student in cloud computing projects.
+&ensp;&ensp;🎓 Specialization in Cloud Computing projects.
 
 
-💻 Software engineer foucesed in React, React Native, JavaScript and TypeScript.
+💻 Software engineer focused in React, React Native, JavaScript and TypeScript.
+
+🗣️ Languages: 🇧🇷 🇺🇸 🇪🇸 🇫🇷 🇨🇳*
 
 📚 Always learning.
 
