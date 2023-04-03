@@ -7,7 +7,7 @@ Hello there, I'm Harnon Anízio 🖖
 &ensp;&ensp;🎓 Specialization in Cloud Computing projects.
 
 
-💻 Software engineer focused in React, React Native, JavaScript and TypeScript.
+💻 Software engineer focused in React, React Native, JavaScript, TypeScript and Node.js.
 
 🗣️ Languages: 🇧🇷 🇺🇸 🇪🇸 🇫🇷 🇨🇳*
 
